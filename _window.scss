@@ -1,0 +1,49 @@
+.window {
+    width: 21%;
+    float: left;
+    background: #FFFF;
+    border-radius: 1.2rem;
+    padding: 1rem;
+}
+
+.header{
+    align-items: center;
+    margin: 2.2rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+hr {
+    color: #F4F5F7;
+}
+
+ul {
+    padding: 2.2rem;
+    list-style-type: none;
+}
+
+.tasksList{
+    line-height: 1.8rem;
+}
+
+.done {
+    vertical-align: text-top;
+    margin-right: 0.6rem;
+    color: #47BF7C;
+}
+
+.current {
+    vertical-align: text-top;
+    margin-right: 0.6rem;
+    color: #0165FF;
+}
+
+.lock {
+    vertical-align: text-top;
+    margin-right: 0.6rem;
+    color: #6B778C;
+}
+
+.curr {
+    font-weight: 600;
+}

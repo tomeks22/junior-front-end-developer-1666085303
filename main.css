@@ -1,0 +1,105 @@
+.container {
+  width: 75%;
+  float: right;
+  background: white;
+  border-radius: 0 0 1.2rem 1.2rem;
+  padding: 1rem;
+}
+
+.busHead {
+  color: rgb(94, 94, 216);
+}
+
+.announces {
+  background: #F4F5F7;
+  overflow: hidden;
+  width: 30%;
+  margin-left: 0.4rem;
+}
+
+.announcment {
+  background: white;
+  border-radius: 1.2rem;
+  margin: 1rem;
+  padding: 1rem;
+  float: left;
+}
+
+.window {
+  width: 21%;
+  float: left;
+  background: white;
+  border-radius: 1.2rem;
+  padding: 1rem;
+}
+
+.header {
+  align-items: center;
+  margin: 2.2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+hr {
+  color: #F4F5F7;
+}
+
+ul {
+  padding: 2.2rem;
+  list-style-type: none;
+}
+
+.tasksList {
+  line-height: 1.8rem;
+}
+
+.done {
+  vertical-align: text-top;
+  margin-right: 0.6rem;
+  color: #47BF7C;
+}
+
+.current {
+  vertical-align: text-top;
+  margin-right: 0.6rem;
+  color: #0165FF;
+}
+
+.lock {
+  vertical-align: text-top;
+  margin-right: 0.6rem;
+  color: #6B778C;
+}
+
+.curr {
+  font-weight: 600;
+}
+
+.bar {
+  width: 75%;
+  float: right;
+  background: white;
+  border-radius: 1.2rem 1.2rem 0 0;
+  padding: 1rem;
+}
+
+.sep {
+  width: 76%;
+  float: right;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: #F4F5F7;
+  font-family: "Poppins";
+  margin: 8px 32px 0 32px;
+}/*# sourceMappingURL=main.css.map */
